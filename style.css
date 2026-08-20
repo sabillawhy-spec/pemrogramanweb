@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(190, 190, 237);
+   table {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 70%;
+}
+
+td, th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  background-color: rgb(237, 237, 173);
+}
+
+
+tr:hover {background-color: #ddd;}
+
+th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #a99292;
+  color: white;
+} 
+}
